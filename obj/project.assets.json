@@ -7363,11 +7363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shade\\Desktop\\Lab5\\Lab5.csproj",
+      "projectUniqueName": "C:\\Users\\Shade\\Documents\\GitHub\\Lab5\\Lab5.csproj",
       "projectName": "Lab5",
-      "projectPath": "C:\\Users\\Shade\\Desktop\\Lab5\\Lab5.csproj",
+      "projectPath": "C:\\Users\\Shade\\Documents\\GitHub\\Lab5\\Lab5.csproj",
       "packagesPath": "C:\\Users\\Shade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shade\\Desktop\\Lab5\\obj\\",
+      "outputPath": "C:\\Users\\Shade\\Documents\\GitHub\\Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shade\\AppData\\Roaming\\NuGet\\NuGet.Config",
